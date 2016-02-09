@@ -163,6 +163,11 @@ $ make destroy_all
 ```
 This will destroy ALL resources created by this project.
 
+
+```
+$ vagrant destroy
+```
+
 ## Customization
 
 * The default values for VPC, ec2 instance profile, policies, keys, autoscaling group, lanuch configurations etc., 
