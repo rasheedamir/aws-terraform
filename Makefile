@@ -9,8 +9,8 @@ CLUSTER_NAME := coreos-cluster
 #ALLOWED_ACCOUNT_IDS := "123456789012","012345678901"
 
 # For get-ami.sh
-COREOS_UPDATE_CHANNE=beta
-AWS_REGION=us-west-2
+COREOS_UPDATE_CHANNE=stable
+AWS_REGION=eu-west-1
 VM_TYPE=hvm
 
 # Working Directories
